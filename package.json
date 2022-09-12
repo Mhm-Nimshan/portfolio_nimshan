@@ -2,6 +2,7 @@
   "name": "frontend_react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://nimshan.site/",
   "dependencies": {
     "@sanity/client": "^3.3.6",
     "@sanity/image-url": "^1.0.1",
